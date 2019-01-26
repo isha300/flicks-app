@@ -18,7 +18,8 @@ Flicks is an app that allows users to browse movies from the [The Movie Database
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthrough GIF
-<img src="https://media.giphy.com/media/NlGdHdxLn0k8YdMcdO/giphy.gif" width=250><br>
+
+<img src="https://media.giphy.com/media/pcLlKjWUDhOcoOlDNs/giphy.gif" width=250><br>
 
 ### Notes
 Implementing the trailer to be played and working out how to display the popularity number for each movie were challenges encountered in developing this app. I used the YouTubePlayerView with an API key to show the trailer as well as a progress bar to indicate the popularity on a scale of 1-500.
