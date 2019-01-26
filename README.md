@@ -17,7 +17,7 @@ Flicks is an app that allows users to browse movies from the [The Movie Database
 - [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
-### App Walkthough GIF
+### App Walkthrough GIF
 <img src="https://media.giphy.com/media/bZvTflwDTpiTFgxtVD/giphy.gif" width=250><br>
 
 ### Notes
