@@ -2,6 +2,31 @@
 # Flicks
 Flicks is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+## Flicks Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView
+   - [x] (1pt) When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
+   - [x] (1pt) Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
+
+#### BONUS
+- [ ] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
+- [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
+- [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
+
+### App Walkthough GIF
+<img src="https://media.giphy.com/media/bZvTflwDTpiTFgxtVD/giphy.gif" width=250><br>
+
+### Notes
+Implementing the trailer to be played and working out how to display the popularity number for each movie were challenges encountered in developing this app. I used the YouTubePlayerView with an API key to show the trailer as well as a progress bar to indicate the popularity on a scale of 1-500.
+
+## Open-source libraries used
+- [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+
 ## Flicks Part 1
 
 ### User Stories
@@ -24,11 +49,4 @@ Flicks is an app that allows users to browse movies from the [The Movie Database
 
 ### Notes
 Being able to insert and track Logcat messages as well as syncing the Gradle files after entering file dependencies were
-some of the challenges encountered while building the app. These problems were overcome through trial-and-error and a more in-depth 
-exploration of CodePath resources. 
-
-
-### Open-source libraries used
-
-- [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Androids
+some of the challenges encountered and overcome while building the app through trial-and-error and an in-depth exploration of CodePath resources. 
