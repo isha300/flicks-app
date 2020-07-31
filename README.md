@@ -14,6 +14,7 @@ Flicks is an app that allows users to browse movies from the [The Movie Database
 ### Video Walkthrough
 
 <img src="https://media.giphy.com/media/ZBiE9Ttunu2H2pZptQ/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/j0v6Tty2AL78iDlJPZ/giphy.gif" width=''><br>
 <img src='https://media.giphy.com/media/j0v6Tty2AL78iDlJPZ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
