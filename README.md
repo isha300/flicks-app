@@ -32,7 +32,7 @@ Implementing the trailer to be played and working out how to display the popular
    - [x] In portrait mode, the poster image, title, and movie overview is shown.
    - [x] In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
-### App Walkthrough GIF
+### Video Walkthrough
 
 <img src="https://media.giphy.com/media/ZBiE9Ttunu2H2pZptQ/giphy.gif" width=250><br>
 
