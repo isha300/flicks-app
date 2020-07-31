@@ -13,8 +13,7 @@ Flicks is an app that allows users to browse movies from the [The Movie Database
 
 ### Video Walkthrough
 
-<img src='https://media.giphy.com/media/pcLlKjWUDhOcoOlDNs/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://media.giphy.com/media/pcLlKjWUDhOcoOlDNs/giphy.gif
+<img src='https://media.giphy.com/media/j0v6Tty2AL78iDlJPZ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 Implementing the trailer to be played and working out how to display the popularity number for each movie were challenges encountered in developing this app. I used the YouTubePlayerView with an API key to show the trailer as well as a progress bar to indicate the popularity on a scale of 1-500.
@@ -35,7 +34,7 @@ Implementing the trailer to be played and working out how to display the popular
 
 ### App Walkthrough GIF
 
-<img src="https://media.giphy.com/media/woZepdqgGH3zFdQzDK/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/ZBiE9Ttunu2H2pZptQ/giphy.gif" width=250><br>
 
 ### Notes
 Being able to insert and track Logcat messages as well as syncing the Gradle files after entering file dependencies were
